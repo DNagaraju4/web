@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+    background-color: black;
+    color: white;
+    list-style: none;
+    font-size: medium;
+    justify-content: space-around;
+    height: 80px;
+}
+ul li img{
+    cursor: pointer;
+}
